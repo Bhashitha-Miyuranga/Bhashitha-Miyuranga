@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhashitha</h1>
-
+<h3 align="center" class="heading-element" dir="auto">Undergraduate at Rajarata University of Sri Lanka</h3>
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **2bhashitha@gmail.com**
