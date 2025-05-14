@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhashitha</h1>
-<h3 align="center" class="heading-element" dir="auto"> Junior Executive -IT in SLP Group </br> & </br> Undergraduate at Rajarata University of Sri Lanka</h3>
+<h3 align="center" class="heading-element" dir="auto"> Junior Executive - IT in SLP Group </br> & </br> Undergraduate at Rajarata University of Sri Lanka</h3>
 
 </br>
 
