@@ -4,7 +4,16 @@
 <p align="center">
 IT professional with experience in IT infrastructure, network security, and end-user support across multiple countries.
 </p>
+<hr>
 
+<h2>📫 Connect With Me</h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhashitha-miyuranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhashitha-miyuranga/" height="45" width="60" /></a>
+    <a href="mailto:your-email@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="45" width="60" />
+  </a>
+</p>
 <hr>
 
 <h2>🚀 About Me</h2>
@@ -69,21 +78,6 @@ IT professional with experience in IT infrastructure, network security, and end-
 <li>Attention to Detail</li>
 </ul>
 
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Bhashitha-Miyuranga&show_icons=true&theme=tokyonight">
-</p>
-
-<hr>
-
-<h2>📫 Connect With Me</h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bhashitha-miyuranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhashitha-miyuranga/" height="30" width="40" /></a>
-</p>
 
 
 </br>
