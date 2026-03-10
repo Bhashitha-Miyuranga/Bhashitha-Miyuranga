@@ -1,3 +1,96 @@
+<h1 align="center">Hi 👋, I'm Bhashitha Miyuranga</h1>
+<h3 align="center">IT Executive | Network & Security Enthusiast</h3>
+
+<p align="center">
+IT professional with experience in IT infrastructure, network security, and end-user support across multiple countries.
+</p>
+
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<ul>
+<li>💼 IT Executive at <b>SLP Group</b></li>
+<li>🌍 Providing End-User IT Support for <b>5 Countries</b></li>
+<li>🔐 Experience with <b>FortiGate Firewall Security</b></li>
+<li>🌐 Working with <b>Cisco Meraki Network Systems</b></li>
+<li>☁️ Familiar with <b>Google Cloud Platform (GCP)</b></li>
+<li>📚 Interested in Cybersecurity, Cloud and Networking</li>
+</ul>
+
+<hr>
+
+<h2>💼 Work Experience</h2>
+
+<h3>SLP Group – Colombo, Sri Lanka (Aug 2024 – Present)</h3>
+
+<b>IT Executive</b> (Sep 2025 – Present)
+
+<ul>
+<li>Manage IT infrastructure and internal systems</li>
+<li>Adding MAC and assigning IP in the FortiGate firewall </li>
+<li>Provide end-user IT support for 5 countries</li>
+<li>Monitor and maintain network security</li>
+<li>Troubleshoot hardware, software and network issues</li>
+<li>IT procurement with PO Generation & Documentation</li>
+</ul>
+
+<b>Junior Executive – IT</b> (Dec 2024 – Sep 2025)
+
+<ul>
+<li>Supported Cisco Meraki network systems</li>
+<li>Maintained firewall configurations</li>
+<li>Provided remote troubleshooting and user support</li>
+</ul>
+
+<b>Information Technology Intern</b> (Aug 2024 – Nov 2024)
+
+<ul>
+<li>Assisted system monitoring and troubleshooting</li>
+<li>Worked with Google Cloud Platform (GCP)</li>
+<li>Supported ISO IT standards documentation</li>
+</ul>
+
+<hr>
+
+<h2>🛠 Skills</h2>
+
+<ul>
+<li>FortiGate Firewall Security</li>
+<li>Cisco Meraki Network System</li>
+<li>Network Security</li>
+<li>IT Services</li>
+<li>Remote User Support</li>
+<li>Remote Troubleshooting</li>
+<li>Hardware Installation</li>
+<li>Software Installation</li>
+<li>Information Technology</li>
+<li>Attention to Detail</li>
+</ul>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhashitha-Miyuranga&show_icons=true&theme=tokyonight">
+</p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+LinkedIn: Add your LinkedIn link<br>
+Email: Add your email
+</p>
+
+
+
+
+
+
+-----------------------------------
 <h1 align="center">Hi 👋, I'm Bhashitha</h1>
 <h3 align="center" class="heading-element" dir="auto"> Executive - IT in SLP Group </br> & </br> Undergraduate at Rajarata University of Sri Lanka</h3>
 
