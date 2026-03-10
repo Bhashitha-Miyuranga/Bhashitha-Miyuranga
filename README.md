@@ -13,7 +13,6 @@
 </p>
 </br>
 
-
 <h2 align="left">Skills:</h2>
 
 <h4>Languages</h4>
