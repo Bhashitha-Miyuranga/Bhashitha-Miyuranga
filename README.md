@@ -4,16 +4,7 @@
 <p align="center">
 IT professional with experience in IT infrastructure, network security, and end-user support across multiple countries.
 </p>
-<hr>
 
-<h2 align="right">📫 Connect With Me</h2>
-
-<p align="right">
-<a href="https://www.linkedin.com/in/bhashitha-miyuranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhashitha-miyuranga/" height="45" width="60" /></a>
-    <a href="mailto:2bhashitha@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="55" width="60"/>
-  </a>
-</p>
 <hr>
 
 <h2>🚀 About Me</h2>
@@ -161,4 +152,15 @@ IT professional with experience in IT infrastructure, network security, and end-
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
 </a>
+</p>
+<hr>
+
+<h2 align="right">📫 Connect With Me</h2>
+
+<p align="right">
+<a href="https://www.linkedin.com/in/bhashitha-miyuranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhashitha-miyuranga/" height="45" width="60" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:2bhashitha@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="60" width="60"/>
+  </a>
 </p>
