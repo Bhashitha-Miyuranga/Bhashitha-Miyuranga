@@ -11,7 +11,7 @@ IT professional with experience in IT infrastructure, network security, and end-
 <p align="right">
 <a href="https://www.linkedin.com/in/bhashitha-miyuranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhashitha-miyuranga/" height="45" width="60" /></a>
     <a href="mailto:2bhashitha@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="45" width="60" />
+    <img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="55" width="60"/>
   </a>
 </p>
 <hr>
