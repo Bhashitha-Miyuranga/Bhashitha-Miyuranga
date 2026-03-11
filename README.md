@@ -73,7 +73,8 @@ IT professional with experience in IT infrastructure, network security, and end-
 
 </br>
 
-<h2 align="left"> Coding Skills:</h2>
+<h2 align="left">   <img align="center" src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" alt="coding" height="30" width="40"/>
+Coding Skills:</h2>
 
 <h4>Languages</h4>
 <p align="left"> 
